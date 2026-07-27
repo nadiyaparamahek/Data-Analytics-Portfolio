@@ -1,0 +1,16 @@
+Product_Name,Category,Quantity,Price,Date,Season,Customer_City
+Kurti,Women_Wear,5,799,10-01-2025,Winter,Rajkot
+Nightwear,Women_Wear,8,499,15-01-2025,Winter,Rajkot
+Chaniya_Choli,Traditional,3,2500,05-02-2025,Wedding,Ahmedabad
+Jodhpuri,Men_Wear,2,3500,12-02-2025,Wedding,Rajkot
+Kids_Dress,Kids_Wear,6,650,01-03-2025,Summer,Morbi
+Nightwear,Women_Wear,10,550,10-03-2025,Summer,Jamnagar
+Kurti,Women_Wear,7,899,15-04-2025,Summer,Rajkot
+Sherwani,Men_Wear,1,4500,20-05-2025,Wedding,Ahmedabad
+Chaniya_Choli,Traditional,5,3000,05-06-2025,Navratri,Rajkot
+Kurti,Women_Wear,12,750,15-06-2025,Navratri,Morbi
+Kids_Dress,Kids_Wear,9,700,01-07-2025,Monsoon,Rajkot
+Nightwear,Women_Wear,15,600,20-07-2025,Monsoon,Jamnagar
+Jodhpuri,Men_Wear,4,3800,10-08-2025,Wedding,Rajkot
+Chaniya_Choli,Traditional,8,2800,15-09-2025,Navratri,Ahmedabad
+Kurti,Women_Wear,10,850,05-10-2025,Diwali,Rajkot
